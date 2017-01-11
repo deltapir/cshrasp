@@ -1,1 +1,9 @@
 C# - to be learnt
+
+Sto usando "mono" per compilare applicazioni su raspberry.
+'sudo apt-get install mono-complete'
+
+Uso http://www.antoniopelleriti.it/file.axd?file=2013%2F6%2FABC%23+guida+alla+programmazione+in+csharp.pdf
+come guida per studiare lo C#.
+
+
