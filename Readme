@@ -4,10 +4,5 @@ Sto usando "mono" per compilare applicazioni su raspberry.
 'sudo apt-get install mono-complete'
 
 Uso http://www.antoniopelleriti.it/file.axd?file=2013%2F6%2FABC%23+guida+alla+programmazione+in+csharp.pdf
-<<<<<<< HEAD
-come guida per studiaree C#.
-=======
 come guida per studiare C#.
->>>>>>> ced5de7f0027ae1dc3bfc4761bd189a69b1d1ba6
-
 
